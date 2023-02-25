@@ -1,0 +1,38 @@
+services:
+  monitoring:
+    build:
+      context: /Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring
+      dockerfile: ./Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: Monitoring
+      target: base
+    container_name: Monitoring
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    image: monitoring:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
+        --additionalProbingPath /root/.nuget/fallbackpackages  "/app/bin/Debug/net7.0/Monitoring.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - target: 80
+    - target: 443
+    tty: true
+    volumes:
+    - /Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring:/app:rw
+    - /Users/adrianbooth67/vsdbg/vs2017u5:/remote_debugger:rw
+    - /Users/adrianbooth67/.aspnet/https:/root/.aspnet/https:ro
+    - /Users/adrianbooth67/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+    - /usr/local/share/dotnet/sdk/NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+    - /Users/adrianbooth67/.nuget/packages:/root/.nuget/packages:ro
+    - /Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring:/src:rw
+version: '3.4'

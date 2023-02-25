@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9fosRoRm4P1/Twm7gmRub2bhMQ4Eq1q8sAQTuu53pofeYNzqhlRE3sRyWN7wpAWhUZAAqUR7u83VlGlc5Z1A/Q==",
+  "success": true,
+  "projectFilePath": "/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/Monitoring.csproj",
+  "expectedPackageFiles": [
+    "/Users/adrianbooth67/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "/Users/adrianbooth67/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/adrianbooth67/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/adrianbooth67/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/adrianbooth67/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/adrianbooth67/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/adrianbooth67/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

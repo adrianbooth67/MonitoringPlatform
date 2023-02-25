@@ -1,0 +1,13 @@
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/Monitoring.deps.json
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/Monitoring.runtimeconfig.json
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/appsettings.Development.json
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/appsettings.json
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/Monitoring
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/Monitoring.dll
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/bin/Debug/Monitoring.pdb
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/obj/Debug/docker-compose.dcproj.CopyComplete

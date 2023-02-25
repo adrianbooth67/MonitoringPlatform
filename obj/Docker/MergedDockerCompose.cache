@@ -1,0 +1,16 @@
+services:
+  monitoring:
+    build:
+      context: /Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring
+      dockerfile: ./Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: monitoring
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - /Users/adrianbooth67/.aspnet/https:/root/.aspnet/https:ro
+    - /Users/adrianbooth67/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
