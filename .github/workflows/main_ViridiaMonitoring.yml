@@ -23,14 +23,14 @@ jobs:
       uses: docker/login-action@v1
       with:
         registry: https://mcr.microsoft.com/
-        username: ${{ secrets.AzureAppService_ContainerUsername_1343b24efc984f3a8d2ee62520fcb4ad }}
-        password: ${{ secrets.AzureAppService_ContainerPassword_521914aeaadd493ca831153070180e0d }}
+        username: ${{ secrets.AzureAppService_ContainerUsername_8134f80373ed46fc91a7fa4daa81b963 }}
+        password: ${{ secrets.AzureAppService_ContainerPassword_1b232801a6ef4adb8101cab5d4292c92 }}
 
     - name: Build and push container image to registry
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: mcr.microsoft.com/${{ secrets.AzureAppService_ContainerUsername_1343b24efc984f3a8d2ee62520fcb4ad }}/appsvc/staticsite:${{ github.sha }}
+        tags: mcr.microsoft.com/${{ secrets.AzureAppService_ContainerUsername_8134f80373ed46fc91a7fa4daa81b963 }}/appsvc/staticsite:${{ github.sha }}
         file: ./Dockerfile
 
   deploy:
@@ -47,5 +47,5 @@ jobs:
       with:
         app-name: 'ViridiaMonitoring'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3f933085a23d44a7b215250b9479606d }}
-        images: 'mcr.microsoft.com/${{ secrets.AzureAppService_ContainerUsername_1343b24efc984f3a8d2ee62520fcb4ad }}/appsvc/staticsite:${{ github.sha }}'
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e01c65bb78264e6dad1f7f66f0a85f16 }}
+        images: 'mcr.microsoft.com/${{ secrets.AzureAppService_ContainerUsername_8134f80373ed46fc91a7fa4daa81b963 }}/appsvc/staticsite:${{ github.sha }}'
