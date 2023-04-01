@@ -14,8 +14,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages
     volumes:
-      - /Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring:/app
-      - /Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring:/src
+      - /Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform:/app
+      - /Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform:/src
       - /Users/adrianbooth67/vsdbg/vs2017u5:/remote_debugger:rw
       - /Users/adrianbooth67/.nuget/packages/:/root/.nuget/packages:ro
       - /usr/local/share/dotnet/sdk/NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro

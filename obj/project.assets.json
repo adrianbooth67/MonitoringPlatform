@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/Monitoring.csproj",
+      "projectUniqueName": "/Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform/Monitoring.csproj",
       "projectName": "Monitoring",
-      "projectPath": "/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/Monitoring.csproj",
+      "projectPath": "/Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform/Monitoring.csproj",
       "packagesPath": "/Users/adrianbooth67/.nuget/packages/",
-      "outputPath": "/Users/adrianbooth67/Projects/Viridia/Device Monitoring Platform/Monitoring/obj/",
+      "outputPath": "/Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -537,7 +537,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,16 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{8E3FFCAF-2033-420E-AF71-D82A8C5AA278}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Monitoring PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/OperatingUnitController.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="adys.git/config">
     <Files>
-      <File FileName="Controllers/OperatingUnitController.cs" Line="1" Column="1" />
-      <File FileName="View/OperatingUnitView.cs" />
-      <File FileName="Controllers/LocationController.cs" />
-      <File FileName="View/LocationView.cs" />
-      <File FileName="Dockerfile" />
+      <File FileName="adys.git/config" Line="1" Column="1" />
+      <File FileName="adys.git/description" />
+      <File FileName="adys.git/HEAD" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,6 +19,11 @@
             <Node name="docker-compose" expanded="True" />
             <Node name="Monitoring" expanded="True">
               <Node name="Dependencies" expanded="True" />
+              <Node name="adys.git" expanded="True">
+                <Node name="hooks" expanded="True" />
+                <Node name="info" expanded="True" />
+                <Node name="config" selected="True" />
+              </Node>
               <Node name="Controllers" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="View" expanded="True" />
@@ -30,4 +34,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
