@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform/Monitoring.csproj": {}
+    "/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/Monitoring.csproj": {}
   },
   "projects": {
-    "/Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform/Monitoring.csproj": {
+    "/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/Monitoring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform/Monitoring.csproj",
+        "projectUniqueName": "/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/Monitoring.csproj",
         "projectName": "Monitoring",
-        "projectPath": "/Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform/Monitoring.csproj",
+        "projectPath": "/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/Monitoring.csproj",
         "packagesPath": "/Users/adrianbooth67/.nuget/packages/",
-        "outputPath": "/Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform/obj/",
+        "outputPath": "/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

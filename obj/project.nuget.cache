@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HQeXEgtAzFt2GqbqeSdWFW14fXibFdJN0RqJk4DFC4o6XEJnCTW40L5ztR1Ssvp2GzwstP8SCY9vpgSovZ8/+A==",
+  "dgSpecHash": "z9FQ6zrCY9nJdQ6NLOMcFUjiN21QIvN6+2fQ0CvB/Zkp7LfDM0QOq4D+ruUlg8Ag3iD75Ea13n39ZnW6zC5smQ==",
   "success": true,
-  "projectFilePath": "/Users/adrianbooth67/Projects/Viridia/Dummy/MonitoringPlatform/Monitoring.csproj",
+  "projectFilePath": "/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/Monitoring.csproj",
   "expectedPackageFiles": [
     "/Users/adrianbooth67/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "/Users/adrianbooth67/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
