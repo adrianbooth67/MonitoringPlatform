@@ -7,10 +7,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["Monitoring.csproj", "."]
-RUN dotnet restore "./Monitoring.csproj"
+COPY ["Monitoring/Monitoring.csproj", "Monitoring/"]
+RUN dotnet restore "Monitoring/Monitoring.csproj"
 COPY . .
-WORKDIR "/src/."
+WORKDIR "/src/Monitoring"
 RUN dotnet build "Monitoring.csproj" -c Release -o /app/build
 
 FROM build AS publish
@@ -20,3 +20,6 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "Monitoring.dll"]
+
+
+
