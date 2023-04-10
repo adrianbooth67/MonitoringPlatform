@@ -1,0 +1,3 @@
+docker login -u Docker -p p191AqkMVN607iash/JlOOFMh5E5OQdaN2ueK9vdkR+ACRDAJVOl viridiaregistry.azurecr.io
+docker tag viridiaMonitor 637e7df6aaeaef4a92c8cd4675f12160fad358e9d3c6cf880ccc6636f6f0cfbc
+docker push viridiaregistry.azurecr.io/viridiamonitor
