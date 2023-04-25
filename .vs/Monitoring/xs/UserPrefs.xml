@@ -1,16 +1,16 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{8E3FFCAF-2033-420E-AF71-D82A8C5AA278}|Default">
-  <MonoDevelop.Ide.ItemProperties.Monitoring PreferredExecutionTarget="/Applications/Safari.app" />
+﻿<Properties StartupConfiguration="{8E3FFCAF-2033-420E-AF71-D82A8C5AA278}|Default" GitUserInfo="UsingGIT">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="adys.git/config">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/launchSettings.json">
     <Files>
-      <File FileName="adys.git/config" Line="1" Column="1" />
-      <File FileName="adys.git/description" />
-      <File FileName="adys.git/HEAD" />
+      <File FileName="docker-compose.yml" Line="1" Column="1" />
+      <File FileName="Dockerfile" Line="27" Column="2" />
+      <File FileName="Program.cs" Line="13" Column="5" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,19 +20,23 @@
             <Node name="Monitoring" expanded="True">
               <Node name="Dependencies" expanded="True" />
               <Node name="adys.git" expanded="True">
-                <Node name="hooks" expanded="True" />
                 <Node name="info" expanded="True" />
-                <Node name="config" selected="True" />
               </Node>
               <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
               <Node name="View" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Monitoring PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>

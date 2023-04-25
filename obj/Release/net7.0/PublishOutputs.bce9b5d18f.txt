@@ -1,0 +1,12 @@
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Monitoring
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Monitoring.dll
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Monitoring.deps.json
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Monitoring.runtimeconfig.json
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Monitoring.pdb
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Microsoft.AspNetCore.OpenApi.dll
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Microsoft.OpenApi.dll
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerUI.dll

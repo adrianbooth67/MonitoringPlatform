@@ -1,0 +1,13 @@
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/Monitoring.deps.json
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/Monitoring.runtimeconfig.json
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/appsettings.Development.json
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/appsettings.json
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/Monitoring
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/Monitoring.dll
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/bin/Release/Monitoring.pdb
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/docker-compose.dcproj.AssemblyReference.cache
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/obj/Release/docker-compose.dcproj.CopyComplete

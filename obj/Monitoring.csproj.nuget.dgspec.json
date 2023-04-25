@@ -43,7 +43,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.2, )"
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[0.4.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

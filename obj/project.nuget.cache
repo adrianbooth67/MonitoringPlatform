@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "z9FQ6zrCY9nJdQ6NLOMcFUjiN21QIvN6+2fQ0CvB/Zkp7LfDM0QOq4D+ruUlg8Ag3iD75Ea13n39ZnW6zC5smQ==",
+  "dgSpecHash": "uVFiCzX9eEhtooIeaIXpGD8/AdKrxlVSERHhuXHiqOAP146cR3eOw2O4yxQEicX7VnB4QtRI0RqOVdgf+WpQOQ==",
   "success": true,
   "projectFilePath": "/Users/adrianbooth67/Projects/Viridia/Dummy2/MonitoringPlatform/Monitoring.csproj",
   "expectedPackageFiles": [
-    "/Users/adrianbooth67/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "/Users/adrianbooth67/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/adrianbooth67/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/adrianbooth67/.nuget/packages/microsoft.net.build.containers/0.4.0/microsoft.net.build.containers.0.4.0.nupkg.sha512",
     "/Users/adrianbooth67/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/adrianbooth67/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/adrianbooth67/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
